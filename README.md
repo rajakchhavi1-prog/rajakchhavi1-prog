@@ -1,8 +1,8 @@
 # Hi, I'm Chhavi 👋
 
-🎓 MA Economics — Delhi School of Economics
-📊 Aspiring Data Scientist | Machine Learning | Applied AI
-💡 Interested in solving real-world business problems using data
+ MA Economics — Delhi School of Economics
+ Aspiring Data Scientist | Machine Learning | Applied AI
+ Interested in solving real-world business problems using data
 
 ---
 
